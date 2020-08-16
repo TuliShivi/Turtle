@@ -4,6 +4,8 @@ Busy
 Boring
 Food
 Fashion
+Shopping
+Party
 
 
 Lockdown effect
